@@ -33,3 +33,10 @@ Sahurda içilmesi gereken minimum miktar ise toplam ihtiyacın 1/4’ü olarak m
     Kütüphaneler: random (Öneri motoru için altyapı)
 
     Konseptler: Sözlük (Dictionary) Yapıları, List Comprehension, Hata Ayıklama.
+    ![GELİŞMİŞ AI SAHUR ASİSTANI Python 19 03 2026 3](https://github.com/user-attachments/assets/a3183df5-8b87-4b09-845f-09da62a91098)
+    ![GELİŞMİŞ AI SAHUR ASİSTANI Python 19 03 2026 5](https://github.com/user-attachments/assets/df3a56c3-8cd5-49ac-aa96-eecfe0a7b937)
+
+
+Geliştiren: Mercan Köseoğlu
+
+Data Analyst & SAP ABAP Consultant
